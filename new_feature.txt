@@ -1,7 +1,11 @@
 <html>
 <head>
 <body>
+<<<<<<< HEAD
 HostFix feature
+=======
+BugFix feature
+>>>>>>> BugFix
 </body>
 </head>
 </html>
